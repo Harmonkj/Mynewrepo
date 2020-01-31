@@ -2,8 +2,8 @@
 p {
 font-size:12px;
 }
-    span {
-    font-weight:bold;
-    font-color: DodgerBlue;
-       }
+   .blueText {
+  color: blue;
+  font-weight: bold;
+}
 
